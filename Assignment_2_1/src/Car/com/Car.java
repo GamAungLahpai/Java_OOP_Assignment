@@ -25,6 +25,7 @@ public class Car {
         this.gasolineLevel = gasolineLevel;
         this.speed = speed;
         this.cruiseControlOn = false;
+
     }
 
     // Normal car methods
