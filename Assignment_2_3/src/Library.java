@@ -32,6 +32,7 @@ public class Library {
         }
     }
 
+    // Task 2
     // Method to borrow a book (remove from library)
     public void borrowBook(String title) {
         for (int i = 0; i < books.size(); i++) {
