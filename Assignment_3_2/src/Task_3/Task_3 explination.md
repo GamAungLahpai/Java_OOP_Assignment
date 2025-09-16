@@ -3,7 +3,7 @@
 ## What I Did
 Added electric vehicles to the existing vehicle system. Now we have both regular cars and electric cars working together.
 
-## Main Problem
+## AlternatingNumberPrinter Problem
 How to make electric and regular vehicles work in the same system when electric vehicles need charging but regular vehicles don't.
 
 ## Solution
