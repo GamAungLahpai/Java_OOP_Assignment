@@ -3,5 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Assignment_7_1/database/currency_converter.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/Assignment_7_1/database/quaries.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Assignment_7_2/database/currency_converter.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/Assignment_7_2/database/quaries.sql" dialect="GenericSQL" />
   </component>
 </project>
