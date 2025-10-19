@@ -1,0 +1,6 @@
+datasource/MariaDbConnection.class
+application/CurrencyConverterApp.class
+entity/Currency.class
+view/CurrencyConverterView.class
+controller/CurrencyConverterController.class
+dao/CurrencyDao.class
