@@ -7,5 +7,8 @@
     <file url="file://$PROJECT_DIR$/Assignment_7_2/database/quaries.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Assignment_7_3/database/currency_converter.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/Assignment_7_3/database/quaries.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Assignment_7_4/database/currency_converter.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/Assignment_7_4/database/database_setup.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/Assignment_7_4/database/quaries.sql" dialect="MariaDB" />
   </component>
 </project>
