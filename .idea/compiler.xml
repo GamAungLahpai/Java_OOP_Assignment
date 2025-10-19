@@ -11,6 +11,7 @@
         <module name="Assignment_7_1" />
         <module name="Assignment_7_2" />
         <module name="Assignment_6_4" />
+        <module name="Assignment_7_3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
