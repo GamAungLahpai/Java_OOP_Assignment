@@ -32,10 +32,10 @@ INSERT INTO CURRENCY (abbreviation, name, rate_to_usd) VALUES
                                                            ('NZD', 'New Zealand Dollar', 1.680000);
 
 -- 5. Drop the user account if it exists
-DROP USER IF EXISTS 'apps'@'localhost';
+DROP USER IF EXISTS 'appuser'@'localhost';
 
 -- 6. Create the user account appuser
-CREATE USER 'apps'@'localhost' IDENTIFIED BY 'password123';
+CREATE USER 'appuser'@'localhost' IDENTIFIED BY 'password123';
 
 -- 7. Grant privileges to the user account
 -- The application needs SELECT (read currencies), INSERT (add new currencies),
